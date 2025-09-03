@@ -1,14 +1,7 @@
 
 # Simple end to end data streaming
     Kafka Topic -> Spark Streaming (Window()) = Data Aggregated -> Cassandra -> BackEnd (Websocket) -> Dashboard UI
-<p>
-	<a  target="_blank">
-			<img src="https://github.com/tiangolo/fastapi/workflows/Test/badge.svg?event=push&branch=master" alt="Test">
-	</a>
-	<a ><img alt="Static Badge" src="https://img.shields.io/badge/docker-supported-brightgreen?logo=docker"></a>
-	<a ><img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-processing-red?logo=kubernetes"></a>
-	<a><img alt="Static Badge" <img alt="Static Badge" src="https://img.shields.io/badge/golang-1.20-brightgreen?logo=go"></a>
-</p>
+
 
 ## Introduction
 
