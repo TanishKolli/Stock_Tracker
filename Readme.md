@@ -26,7 +26,7 @@ This repository contains the source code and configuration for a real-time data 
 ### 3. Data Aggregated
 
 - Data is aggregated within the Spark Streaming step using various aggregation functions.
-- Common operations include summing, averaging, counting, etc., depending on the specific use case.
+- Common operations include Open Price Calculation, Close Price Calculation, High Price Calculation, Low Price Calculation and Volume Aggregation.
 
 ### 4. Cassandra
 
