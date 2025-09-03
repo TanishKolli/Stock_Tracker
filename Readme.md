@@ -22,7 +22,7 @@ This repository contains the source code and configuration for a real-time data 
 
 ### 1. Kafka Topic
 
-- Data is ingested into the pipeline through a Kafka topic.
+- Stock Data from yfinance is ingested into the pipeline through a Kafka topic.
 - Kafka is a distributed event streaming platform, providing a scalable and fault-tolerant mechanism for data ingestion.
 
 ### 2. Spark Streaming (Window())
@@ -48,7 +48,7 @@ This repository contains the source code and configuration for a real-time data 
 ### 6. Dashboard UI
 
 - The Dashboard UI provides a user interface for visualizing and interacting with real-time aggregated data.
-- Updates are received in real-time through the WebSocket connection, ensuring the dashboard reflects the latest information.
+- Used an Angular-based dashboard for dynamic visualization of stock trends, providing users with instant updates and interactive charts powered by WebSocket connections.
 
 ## Getting Started
 
@@ -66,8 +66,8 @@ To set up and run the real-time data processing pipeline, follow the steps outli
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anthoai97/simple-end-to-end-data-streaming
-   cd simple-end-to-end-data-streaming
+   git clone https://github.com/TanishKolli/Stock_Tracker
+   cd Stock_Tracker
    docker-compose up
 
 ## Owner
