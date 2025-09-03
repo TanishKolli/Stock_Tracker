@@ -50,9 +50,6 @@ This repository contains the source code and configuration for a real-time data 
 - The Dashboard UI provides a user interface for visualizing and interacting with real-time aggregated data.
 - Used an Angular-based dashboard for dynamic visualization of stock trends, providing users with instant updates and interactive charts powered by WebSocket connections.
 
-## Getting Started
-
-To set up and run the real-time data processing pipeline, follow the steps outlined in the [Installation Guide](#) and [Configuration Documentation](#).
 
 ## Usage
 
