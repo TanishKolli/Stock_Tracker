@@ -1,6 +1,6 @@
 
-# Simple end to end data streaming
-    Kafka Topic -> Spark Streaming (Window()) = Data Aggregated -> Cassandra -> BackEnd (Websocket) -> Dashboard UI
+# Real Time Stock Analyzer
+    Yahoo finance stock data -> Kafka Topic -> Spark Streaming (Window()) = Data Aggregated -> Cassandra -> BackEnd (Websocket) -> Dashboard UI
 
 
 ## Introduction
