@@ -70,13 +70,6 @@ To set up and run the real-time data processing pipeline, follow the steps outli
    cd Stock_Tracker
    docker-compose up
 
-## Owner
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/anthoai97"><img src="https://avatars.githubusercontent.com/u/85854989?v=4" width="100px;" alt="An Quach"/><br /><sub><b>An Thoai</b></sub></a><br /></td>
-    </tr>
-</table>
 
 ## License
 
